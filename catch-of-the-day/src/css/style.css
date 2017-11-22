@@ -637,3 +637,12 @@ input[type=submit].twitter:after {
   text-align: center;
   font-size: 3rem;
 }
+.downasaur {
+  background: url("images/downasaur.png") center no-repeat;
+  width: 334px;
+  height: 334px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 70px;
+}
